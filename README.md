@@ -16,7 +16,7 @@ This project analyzes OLA cab ride data to uncover trends in bookings, revenue, 
 ## 📁 Project Scope
 
 - **Timeline Analyzed:** July 01 – July 30, 2024  
-- **Total Records:** 39,147 ride bookings  
+- **Total Records:** 40539 ride bookings  
 - **Tools Used:** Power BI, DAX, Power Query, Excel
 
 ---
@@ -29,9 +29,11 @@ This project analyzes OLA cab ride data to uncover trends in bookings, revenue, 
 
 ### 💰 Revenue Analysis
 - **Total Revenue:** ₹14 million  
+
 ![Image](https://github.com/user-attachments/assets/1eecfecf-a0bc-4622-b40b-1cba9b699b1a)
 
 - **Top Payment Methods:** Cash and UPI are most preferrd modes of payment.
+
 ![Image](https://github.com/user-attachments/assets/2e13156b-e912-4749-af39-7449d408ff4f)
 
 ### ❌ Cancellation Analysis
