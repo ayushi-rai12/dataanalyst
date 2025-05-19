@@ -1,6 +1,3 @@
-# dataanalyst
-here I publish my works on the project that i do for analysis involving #powerbi, #sql, #excel, #python
-
 # 🚕 OLA Data Analyst Project (Power BI)
 
 This project analyzes OLA cab ride data to uncover trends in bookings, revenue, cancellations, and customer behavior using **Power BI**.
@@ -16,7 +13,7 @@ This project analyzes OLA cab ride data to uncover trends in bookings, revenue, 
 ## 📁 Project Scope
 
 - **Timeline Analyzed:** July 01 – July 30, 2024  
-- **Total Records:** 40539 ride bookings  
+- **Total Records:** 39,147 ride bookings  
 - **Tools Used:** Power BI, DAX, Power Query, Excel
 
 ---
@@ -99,7 +96,7 @@ This project analyzes OLA cab ride data to uncover trends in bookings, revenue, 
 
 **Ayushi**  
 📧 raiayushi080@gmail.com  
-🌐 [linkedin.com/in/rai-ayushi/GitHub Profile]
+🌐 linkedin.com/in/rai-ayushi/
 
 ---
 
